@@ -12,7 +12,6 @@ https://kvantik.com/
 https://kvantik.com/archive/
 
 Все решения в векторном виде лежат в  одном .pdf файле.
-https://github.com/polozkov/calender_puzzle/blob/main/Kvantik_2024_08_CalenderPuzzle.pdf
 Файл можно свободно скачать.
 
 Этот pdf-файл программно сгенерировал  Полозков Сергей Сергеевич.
